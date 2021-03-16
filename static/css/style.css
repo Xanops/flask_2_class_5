@@ -3,11 +3,11 @@ h4 {
     margin-left: 10px;
 }
 
-h1 {
+.MKM {
     margin-left: 10px;
 }
 
-img {
-    float: left;
-    margin-right: 5px;
+.AD {
+    padding-left: 150px;
+    background: url(../img/MARS-2-7.png) no-repeat;
 }
